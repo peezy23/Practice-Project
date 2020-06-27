@@ -1,0 +1,21 @@
+MACRO CACULATOR PROJECT
+
+Build a calculator that calculate a person macro.
+
+Steps:
+  - Gather the needed data from the user:
+    - Gender
+    - Age
+    - Height(cm)
+    - Weight(kg)
+    - Active Level
+
+  - Valid the information
+  - Convert lbs and inches into kg and cm
+  - Build the calculator using Jeor Formula
+  - Display the result
+  - (Optional) Ask user to try again
+
+---- FUTURE PLAN ----
+
+Use Tkinter to create a GUI Macro calculator
